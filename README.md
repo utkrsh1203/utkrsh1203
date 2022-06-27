@@ -1,6 +1,6 @@
 # Helloo, Utkarsh here :- )
-#### 🎓 I'm currently pursuing B.TECH in Computer Science NSUT, Delhi.
-#### ✨ I'm currently learning Web Development and Data Structures and Algorithms in JAVA
+#### 🎓 I'm currently pursuing B.TECH in Computer Science from NSUT, Delhi.
+#### ✨ I'm currently learning Web Development and DSA in JAVA
 #### ❤️ Ask me about React, Javascript or DSA.
 #### 😁 Contact Me : [LinkedIn](https://www.linkedin.com/in/utkarsh-shrivastava-a2b989225/) , [Instagram](https://www.instagram.com/utkrsh.1203/)
 
